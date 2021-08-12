@@ -64,3 +64,7 @@ uselib
 uselib_track
 darknet
 vcpkg/
+
+
+*my ignores
+PredictedImages/
